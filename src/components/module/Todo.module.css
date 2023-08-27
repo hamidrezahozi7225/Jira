@@ -1,0 +1,59 @@
+.todo {
+  border: 1px solid rgb(255, 124, 36);
+  min-height: 300px;
+  margin: 10px;
+}
+.todo header {
+  background-color: rgb(255, 124, 36);
+  text-align: center;
+}
+.todo button {
+  background-color: rgb(255, 124, 36);
+  padding: 4px;
+  border-radius: 6px;
+}
+
+.inProgress {
+  border: 1px solid rgb(52, 13, 248);
+  min-height: 300px;
+  margin: 10px;
+}
+.inProgress header {
+  background-color: rgb(52, 13, 248);
+  text-align: center;
+}
+.inProgress button {
+  background-color: rgb(52, 13, 248);
+  padding: 4px;
+  border-radius: 6px;
+}
+
+.review {
+  border: 1px solid rgb(58, 221, 254);
+  min-height: 300px;
+  margin: 10px;
+}
+.review header {
+  background-color: rgb(58, 221, 254);
+  text-align: center;
+}
+.review button {
+  background-color: rgb(58, 221, 254);
+  padding: 4px;
+  border-radius: 6px;
+}
+
+.done {
+  border: 1px solid rgb(25, 255, 41);
+  min-height: 300px;
+  margin: 10px;
+}
+.done header {
+  background-color: rgb(25, 255, 41);
+  text-align: center;
+}
+.done button {
+  background-color: rgb(25, 255, 41);
+  padding: 4px;
+  border-radius: 6px;
+}
